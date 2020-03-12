@@ -1,0 +1,65 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  max-width: 576px !important;
+  font-weight: 300 !important;
+  min-height: 100%;
+}
+.menu {
+  background-color: #202060;
+  color: white;
+}
+.menu p {
+  font-weight: 300 !important;
+  font-size: 2.5em;
+  margin-bottom: 0;
+}
+.feeds {
+  padding: 20px;
+  background-color: #66b3ff;
+}
+.feed {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.avatar {
+  margin-right: 15px;
+}
+.feed p {
+  margin-bottom: 0;
+}
+.name {
+  font-weight: 600;
+  font-size: 1.2em;
+}
+.post-input {
+  margin: 10px 0 10px 0;
+}
+.post-text {
+  background-color: #f2f2f2;
+  border-radius: 0;
+  border: none;
+}
+.word-count {
+  color: #adadad;
+}
+.btn-post {
+  background-color: white;
+  color: #66b3ff;
+  border: 1px solid;
+  font-weight: 600;
+  margin: 0 10px 0 10px;
+}
+.btn-like {
+  margin: 10px 0 10px 0;
+  border: 1px solid #00ff99;
+  color: #00ff99;
+  background-color: white;
+}
+.btn-like:hover {
+  border: 1px solid white;
+  color: white;
+  background-color: #00ff99;
+}
