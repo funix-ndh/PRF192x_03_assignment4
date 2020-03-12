@@ -52,6 +52,10 @@ body{
   font-weight: 600;
   margin: 0 10px 0 10px;
 }
+.btn-post:hover {
+  background-color: #66b3ff;
+  color: white;
+}
 .btn-like {
   margin: 10px 0 10px 0;
   border: 1px solid #00ff99;

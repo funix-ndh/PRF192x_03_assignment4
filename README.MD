@@ -5,7 +5,7 @@
 
 - Trong trang web phải có phần logo của Feedster và Menu để điều hướng trang web.
 
-- Trang web cần có thông tin về các bài đăng của bạn bè. 
+- Trang web cần có thông tin về các bài đăng của bạn bè.
 
 - Trang web cần có phần text area cho phép người dùng nhập nội dung vào
 
@@ -23,13 +23,13 @@
 
 - Khi người dùng di chuột qua item khác (trước đó là nút +) thì background của nút + sẽ trở về màu ban đầu
 
-- Khi người dùng nhất nút Post hoặc Word count thì text area reset lại trạng thái ban đầu. 
+- Khi người dùng nhất nút Post hoặc Word count thì text area reset lại trạng thái ban đầu.
 
 - Comment đầy đủ, rõ ràng. Code tuân thủ style của Google.
 
 ### Link sản phẩm:
 ```
-https://funix-ndh.github.io/PRF192x_03_assignment4/
+https://funix-ndh.github.io/PRF192x_03_assignment4/index.html
 
 ```
 
